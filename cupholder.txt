@@ -1,0 +1,181 @@
+REM The next 4 lines opens the A drive
+GUI r
+DELAY 1000
+STRING file:///A:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the B drive
+GUI r
+DELAY 1000
+STRING file:///B:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the C drive
+GUI r
+DELAY 1000
+STRING file:///C:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the D drive
+GUI r
+DELAY 1000
+STRING file:///D:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the E drive
+GUI r
+DELAY 1000
+STRING file:///E:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the F drive
+GUI r
+DELAY 1000
+STRING file:///F:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the G drive
+GUI r
+DELAY 1000
+STRING file:///G:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the H drive
+GUI r
+DELAY 1000
+STRING file:///H:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the I drive
+GUI r
+DELAY 1000
+STRING file:///I:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the J drive
+GUI r
+DELAY 1000
+STRING file:///J:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the K drive
+GUI r
+DELAY 1000
+STRING file:///K:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the L drive
+GUI r
+DELAY 1000
+STRING file:///L:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the M drive
+GUI r
+DELAY 1000
+STRING file:///M:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the N drive
+GUI r
+DELAY 1000
+STRING file:///N:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the O drive
+GUI r
+DELAY 1000
+STRING file:///O:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the P drive
+GUI r
+DELAY 1000
+STRING file:///P:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the Q drive
+GUI r
+DELAY 1000
+STRING file:///Q:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the R drive
+GUI r
+DELAY 1000
+STRING file:///R:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the S drive
+GUI r
+DELAY 1000
+STRING file:///S:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the T drive
+GUI r
+DELAY 1000
+STRING file:///T:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the U drive
+GUI r
+DELAY 1000
+STRING file:///U:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the V drive
+GUI r
+DELAY 1000
+STRING file:///V:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the W drive
+GUI r
+DELAY 1000
+STRING file:///W:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the X drive
+GUI r
+DELAY 1000
+STRING file:///X:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the Y drive
+GUI r
+DELAY 1000
+STRING file:///Y:/
+DELAY 1000
+ENTER
+
+REM The next 4 lines opens the Z drive
+GUI r
+DELAY 1000
+STRING file:///Z:/
+DELAY 1000
+ENTER
