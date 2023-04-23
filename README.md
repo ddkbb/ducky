@@ -12,3 +12,6 @@ https://docs.hak5.org/hak5-usb-rubber-ducky/operators-conditions-loops-and-funct
 
 ducky script on github
 https://github.com/dekuNukem/duckyPad/blob/master/duckyscript_info.md
+
+breakpoints in python
+https://www.youtube.com/watch?v=aZJnGOwzHtU
