@@ -15,3 +15,6 @@ https://github.com/dekuNukem/duckyPad/blob/master/duckyscript_info.md
 
 breakpoints in python
 https://www.youtube.com/watch?v=aZJnGOwzHtU
+
+video
+https://drive.google.com/file/d/1fnTYHjKNPkSC_peaM93cOprGs72JMiXV/view?usp=drive_link
