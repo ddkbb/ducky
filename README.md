@@ -3,7 +3,7 @@ scripting language for flipper zero
 
 This script was to iterate through file:///A:/ to file:///Z:/ drives in order to eventually open the CD-ROM drive (if there is one).
 This is to simulate a brute force cupholder opener.
-I used a python script to create the ducky script, which iterates through the alphabet and spits out a script for each drive with differing letters.
+I used a python script to create the ducky script, which iterates through the alphabet and spits out a ducky script for each drive with differing letters.
 
 flipper zero doc
 https://docs.flipperzero.one/bad-usb
